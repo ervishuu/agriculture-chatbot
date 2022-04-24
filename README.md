@@ -1,6 +1,6 @@
-# AgroBot 
+# AgroBot 🤖
 
-Chatbots are the fastest response means to communicate with your customers. This step can lead to time and cost savings for both businesses and customers.AI based chatbot can also  help the farmers to get agricultural information efficiently,economically and in real time.
+Chatbots 🤖 are the fastest response means to communicate with your customers. This step can lead to time and cost savings for both businesses and customers.AI based chatbot can also  help the farmers to get agricultural information efficiently,economically and in real time.
 
  Agriculture is the backbone of Indian economy which contributes 17-18% to GDP and farmers play a vital role in agriculture. In this modern era,the use of new technology and farming practices have been replaced by traditional methods of farming.
  
@@ -32,6 +32,8 @@ Chatbots are the fastest response means to communicate with your customers. This
 
 
 ## Just follow☝️ me and Star⭐ my repository 
+
+# Hi, I'm Vishvanath ! 👋
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishvanath-metkari-586617197/)
