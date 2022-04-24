@@ -21,7 +21,7 @@ Chatbots are the fastest response means to communicate with your customers. This
 - Open CMD in directory of this repository(Python 3.6 should be installed)
 - type `pip install -r requirements.txt`.
 - After installation run `app.py`.
-- Go to the `127.0.0.1:5000/chatbot`, You can start chatting.
+- Go to the `127.0.0.1:5000/index.html`, You can start chatting.
 
 
 
